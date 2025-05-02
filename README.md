@@ -2,7 +2,7 @@
 
 ## Assignment 1: Resume
 - รายละเอียด: ทำ resume แบบ HTML + CSS พื้นฐาน
-- Deploy: [ดูหน้าเว็บ](https://Chadaporn24.github.io/HTML---CSS-Homework/addsiment-1-resume)
+- Deploy: [ดูหน้าเว็บ](https://Chadaporn24.github.io/HTML---CSS-Homework/assignment-1-resume)
 
 ## Assignment 2: Clone Apple
 - รายละเอียด: จำลองหน้าเว็บไซต์ Apple อย่างง่าย
